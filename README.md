@@ -6,6 +6,9 @@ Bikeshare Python Project
 ## Introduction
 This Udacity nanodegree course in python for data science introduces some key modules needed for data analytics like NumPy and pandas to make good sense from the bikeshare data.
 
+## Introduction
+This Udacity nanodegree course in python for data science introduces some key modules needed for data analytics like NumPy and pandas to make good sense from the bikeshare data.
+
 ## How to use
 The repository contains-
 1. Three csv files containing the data for three cities- chicago.csv, new_york_city.csv, and washington.csv.
