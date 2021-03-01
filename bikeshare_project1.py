@@ -45,7 +45,7 @@ def get_filters():
     """
     print('Hello! Let\'s explore some US bikeshare data!\n')
     print()
-    # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
+    # TO DO: get the user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while 1:
         print('Which city\'s data do you want?')
         chosencity = input('Type Chicago or CH for Chicago, New York City or NYC for New York, and Washington or WA for Washington DC \n').lower()
@@ -181,7 +181,7 @@ def station_stats(df):
     print('\nCalculating The Most Popular Stations and Trip...\n')
     start_time = time.time()
 
-    # TO DO: This display the most commonly used start station
+    # TO DO: This displays the most commonly used start station
     print()
     print('Most commonly used start station as per our data was {}'.format(df['Start Station'].mode()[0]))
 
