@@ -1,5 +1,6 @@
 ### Date created
 This file was created on 26th February, 2021.
+Updated on 1st March, 2021
 
 ### Project Title
 Bikeshare Python Project 
@@ -8,6 +9,7 @@ This Udacity nanodegree course in python for data science introduces some key mo
 
 ## Introduction
 This Udacity nanodegree course in python for data science introduces some key modules needed for data analytics like NumPy and pandas to make good sense from the bikeshare data.
+
 
 ## How to use
 The repository contains-
