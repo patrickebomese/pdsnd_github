@@ -28,6 +28,6 @@ If I got stuck some place, the source(s) below helped me-
 3. [Tutorials Point](https://www.tutorialspoint.com/python/)
 4. [Pandas Documentation](https://pandas.pydata.org/pandas-docs/version/0.17.0/)
 5. I used [Jupyter Notebook](http://jupyter.org/) extensively for quickly running small snippets of code, and [Visual studio editor](https://atom.io/) for bigger pieces of code.
-6. Text book like Python Data analytics by [Fabio Neil also helped me]
-
+6. Text book like Python Data analytics by [Fabio Neil also helped me].
+7. Python for dummies text online.
 ########################################
