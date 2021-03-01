@@ -3,7 +3,7 @@ This file was created on 26th February, 2021.
 Updated on 1st March, 2021
 
 ### Project Title
-Bikeshare Python Project 
+Bikeshare Python Project February, 2021
 ## Introduction
 This Udacity nanodegree course in python for data science introduces some key modules needed for data analytics like NumPy and pandas to make good sense from the bikeshare data.
 
@@ -18,7 +18,7 @@ The repository contains-
 
 To Execute this project-
 1. Place the bikeshare_project1.py file and all the CSV files in the same folder.
-2. Run the python file using a suitable python interpreter.
+2. Run the python file using a suitable python interpreter like jupyter notebook.
 
 ## Resources
 To complete the project, I used my knowledge which I gained over the course of studying the Python Foundation Nanodegree Program on Udacity.
@@ -28,6 +28,6 @@ If I got stuck some place, the source(s) below helped me-
 3. [Tutorials Point](https://www.tutorialspoint.com/python/)
 4. [Pandas Documentation](https://pandas.pydata.org/pandas-docs/version/0.17.0/)
 5. I used [Jupyter Notebook](http://jupyter.org/) extensively for quickly running small snippets of code, and [Visual studio editor](https://atom.io/) for bigger pieces of code.
-6. Text book like Python Data analytics by [Fabio Neil also helped me]
-
+6. Text book like Python Data analytics by [Fabio Neil also helped me].
+7. Python for dummies text online.
 ########################################
